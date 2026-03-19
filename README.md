@@ -21,12 +21,12 @@
 
 <h3> Bazy danych / Backend</h3>
 
-- <b>[GoCar – aplikacja wynajmu samochodów]()</b>
+- <b>[GoCar – aplikacja wynajmu samochodów (rola: backend + REST API)]()</b>
   - rozwój aplikacji mobilnej w React Native
   - implementacja backendu (Python, Flask, SQLite)
   - stworzenie REST API do obsługi rezerwacji
 
-- <b>[Portfel inwestycyjny (.NET)]()</b>
+- <b>[Portfel inwestycyjny (.NET) (rola: baza danych / integracja)]()</b>
   - implementacja aplikacji w C# z wykorzystaniem architektury MVVM
   - projekt i obsługa bazy danych SQLite
   - integracja z zewnętrznym API (Stooq)
