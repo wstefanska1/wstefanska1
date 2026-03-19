@@ -4,7 +4,7 @@
 
 <h3> Data Science & Machine Learning (Python) </h3>
 
-- <b>[Detekcja choroby Wilsona]()</b>
+- <b>[Detekcja choroby Wilsona](https://github.com/wstefanska1/soft_set_Wilson_disease_detection)</b>
   - przeprowadzenie analizy danych i wizualizacji (Pandas, Seaborn, Matplotlib)
   - optymalizacja wag modelu przy użyciu algorytmu genetycznego
   - implementacja modelu detekcji opartego na teorii zbiorów miękkich
