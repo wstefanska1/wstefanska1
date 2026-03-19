@@ -13,7 +13,7 @@
   - analiza danych pod kątem klasyfikacji oraz reguł asocjacyjnych
   - zastosowanie metod redukcji wymiarów
 
-- <b>[Wine Quality Prediction]()</b>
+- <b>[Klasyfikacja zbioru Wine Quality](https://github.com/wstefanska1/wine_quality_classification)</b>
   - przygotowanie danych (standaryzacja)
   - implementacja algorytmu k-NN (metryka taksówkowa)
   - analiza wpływu cech na wynik klasyfikacji
