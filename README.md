@@ -9,7 +9,7 @@
   - optymalizacja wag modelu przy użyciu algorytmu genetycznego
   - implementacja modelu detekcji opartego na teorii zbiorów miękkich
 
-- <b>[Analiza zbioru jadalności grzybów]()</b>
+- <b>[Analiza zbioru jadalności grzybów](https://github.com/wstefanska1/mushrooms_exploration)</b>
   - analiza danych pod kątem klasyfikacji oraz reguł asocjacyjnych
   - zastosowanie metod redukcji wymiarów
 
