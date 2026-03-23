@@ -2,7 +2,6 @@
 
 <h2> Studentka informatyki ze specjalizacją w inżynierii analizy danych, rozwijająca się w obszarze Data Science, Machine Learning oraz w tworzeniu rozwiązań z zakresu baz danych i backendu. </h2>
 
-<h3>Tech Stack</h3>
 <p>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
