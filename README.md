@@ -1,6 +1,6 @@
 <h1> Weronika Stefańska </h1>
 
-<h2> Studentka informatyki ze specjalizacją w inżynierii analizy danych, rozwijająca się w obszarze Data Science, Machine Learning oraz w tworzeniu rozwiązań z zakresu baz danych i backendu. </h2>
+<h2> Computer Science student specializing in Data Engineering and Analytics with hands-on experience in process automation, data processing, and software development. Interested in Artificial Intelligence, Machine Learning, Data Engineering, and building practical solutions with Python and modern technologies. </h2>
 
 <p>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
