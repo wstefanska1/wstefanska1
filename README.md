@@ -18,21 +18,20 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-<h3> Data Science & Machine Learning (Python) </h3>
+<h3>Backend & Databases</h3>
 
-- <b>[Detekcja choroby Wilsona](https://github.com/wstefanska1/soft_set_Wilson_disease_detection)</b>
-  - przeprowadzenie analizy danych i wizualizacji (Pandas, Seaborn, Matplotlib)
-  - optymalizacja wag modelu przy użyciu algorytmu genetycznego
-  - implementacja modelu detekcji opartego na teorii zbiorów miękkich
+- <b><a href="https://github.com/wstefanska1/carrental_app">GoCar – Car Rental System (Backend & REST API)</a></b>
+  - Designed and implemented a relational database using SQLite for users, vehicles, and rental history
+  - Developed a backend service using Python and Flask, exposing REST API endpoints for authentication and rental operations
+  - Integrated the backend with a React Native mobile application to enable end-to-end system functionality
 
-- <b>[Analiza zbioru jadalności grzybów](https://github.com/wstefanska1/mushrooms_exploration)</b>
-  - analiza danych pod kątem klasyfikacji oraz reguł asocjacyjnych
-  - zastosowanie metod redukcji wymiarów
+<h3>Data Science & Machine Learning (Python)</h3>
 
+- <b><a href="https://github.com/wstefanska1/soft_set_Wilson_disease_detection">Wilson’s Disease Detection</a></b>
+  - Performed data analysis and visualization using Pandas, Seaborn, and Matplotlib
+  - Implemented a classification model based on Soft Set Theory for disease detection
+  - Optimized model performance using a genetic algorithm for feature weight tuning
 
-<h3> Bazy danych / Backend</h3>
-
-- <b>[GoCar – aplikacja wynajmu samochodów (rola: backend + REST API)](https://github.com/wstefanska1/carrental_app)</b>
-  - rozwój aplikacji mobilnej w React Native
-  - implementacja backendu (Python, Flask, SQLite)
-  - stworzenie REST API do obsługi rezerwacji
+- <b><a href="https://github.com/wstefanska1/mushrooms_exploration">Mushroom Dataset Analysis</a></b>
+  - Conducted exploratory data analysis for classification and pattern discovery
+  - Applied dimensionality reduction techniques to improve feature understanding
