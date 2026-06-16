@@ -18,13 +18,15 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-<h3>Backend & Databases</h3>
+<h3>AI & Large Language Models (RAG Systems)</h3>
 
-- <b><a href="https://github.com/wstefanska1/carrental_app">GoCar – Car Rental System (Backend & REST API)</a></b>
-  - Designed and implemented a relational database using SQLite for users, vehicles, and rental history
-  - Developed a backend service using Python and Flask, exposing REST API endpoints for authentication and rental operations
-  - Integrated the backend with a React Native mobile application to enable end-to-end system functionality
-
+- <b><a href="https://github.com/wstefanska1/PDF_chat_app">AI Document Assistant</a></b>
+  - Built a backend RAG system using FastAPI, Ollama, and ChromaDB
+  - Implemented PDF ingestion, embedding, and semantic search pipeline
+  - Developed REST API for document-based AI text generation
+  - Containerized the full application with Docker
+  - Added a minimal HTML/CSS/JavaScript frontend for API interaction
+ 
 <h3>Data Science & Machine Learning (Python)</h3>
 
 - <b><a href="https://github.com/wstefanska1/soft_set_Wilson_disease_detection">Wilson’s Disease Detection</a></b>
@@ -35,3 +37,12 @@
 - <b><a href="https://github.com/wstefanska1/mushrooms_exploration">Mushroom Dataset Analysis</a></b>
   - Conducted exploratory data analysis for classification and pattern discovery
   - Applied dimensionality reduction techniques to improve feature understanding
+
+<h3>Backend & Databases</h3>
+
+- <b><a href="https://github.com/wstefanska1/carrental_app">GoCar – Car Rental System (Backend & REST API)</a></b>
+  - Designed and implemented a relational database using SQLite for users, vehicles, and rental history
+  - Developed a backend service using Python and Flask, exposing REST API endpoints for authentication and rental operations
+  - Integrated the backend with a React Native mobile application to enable end-to-end system functionality
+
+
