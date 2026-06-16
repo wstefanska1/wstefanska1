@@ -1,9 +1,9 @@
 <h1>Weronika Stefańska</h1>
 
-<p>
+<h2>
 Computer Science student specializing in Data Engineering and Analytics with hands-on experience in backend development, data processing, and automation.
 Interested in Artificial Intelligence, Large Language Models, and building practical, production-oriented solutions using Python and modern backend technologies.
-</p>
+</h2>
 
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
