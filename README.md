@@ -1,6 +1,9 @@
-<h1> Weronika Stefańska </h1>
+<h1>Weronika Stefańska</h1>
 
-<h2> Computer Science student specializing in Data Engineering and Analytics with hands-on experience in process automation, data processing, and software development. Interested in Artificial Intelligence, Machine Learning, Data Engineering, and building practical solutions with Python and modern technologies. </h2>
+<p>
+Computer Science student specializing in Data Engineering and Analytics with hands-on experience in backend development, data processing, and automation.
+Interested in Artificial Intelligence, Large Language Models, and building practical, production-oriented solutions using Python and modern backend technologies.
+</p>
 
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -25,24 +28,22 @@
   - Implemented PDF ingestion, embedding, and semantic search pipeline
   - Developed REST API for document-based AI text generation
   - Containerized the full application with Docker
-  - Added a minimal HTML/CSS/JavaScript frontend for API interaction
- 
+  - HTML/CSS/JavaScript frontend for API interaction
+
 <h3>Data Science & Machine Learning (Python)</h3>
 
 - <b><a href="https://github.com/wstefanska1/soft_set_Wilson_disease_detection">Wilson’s Disease Detection</a></b>
   - Performed data analysis and visualization using Pandas, Seaborn, and Matplotlib
-  - Implemented a classification model based on Soft Set Theory for disease detection
-  - Optimized model performance using a genetic algorithm for feature weight tuning
+  - Implemented a classification model based on Soft Set Theory
+  - Optimized model performance using genetic algorithm-based feature tuning
 
 - <b><a href="https://github.com/wstefanska1/mushrooms_exploration">Mushroom Dataset Analysis</a></b>
   - Conducted exploratory data analysis for classification and pattern discovery
-  - Applied dimensionality reduction techniques to improve feature understanding
+  - Applied dimensionality reduction techniques for feature analysis
 
 <h3>Backend & Databases</h3>
 
 - <b><a href="https://github.com/wstefanska1/carrental_app">GoCar – Car Rental System (Backend & REST API)</a></b>
   - Designed and implemented a relational database using SQLite for users, vehicles, and rental history
-  - Developed a backend service using Python and Flask, exposing REST API endpoints for authentication and rental operations
-  - Integrated the backend with a React Native mobile application to enable end-to-end system functionality
-
-
+  - Developed a backend service using Python and Flask exposing REST API endpoints for authentication and rental operations
+  - Integrated with a React Native mobile application to enable end-to-end system functionality
