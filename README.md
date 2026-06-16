@@ -2,7 +2,7 @@
 
 <h2>
 Computer Science student specializing in Data Engineering and Analytics with hands-on experience in backend development, data processing, and automation.
-Interested in Artificial Intelligence, Large Language Models, and building practical, production-oriented solutions using Python and modern backend technologies.
+Interested in Artificial Intelligence, Machine Learning and building practical solutions using Python and modern backend technologies.
 </h2>
 
 <p>
